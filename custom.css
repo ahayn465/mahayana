@@ -74,3 +74,7 @@ em{
 .centered{
 	text-align: center;
 }
+
+img.map, map area{
+	outline: none;
+}
